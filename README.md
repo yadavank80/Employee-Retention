@@ -15,3 +15,9 @@ Given some data about employees working in an organization, we are interested in
 * **satisfaction** – Employee’s satisfaction score  
 * **last_evaluation** – Recent evaluation score  
 * **filed_complaint** – Has the employee filed a formal complaint in the last 3 years?
+
+## Model performance:
+Best performing model was Random Forest.  
+Receiver Operating Characteristic curve for all the models is as below:  
+  
+![alt text](https://github.com/yadavank80/Employee-Retention/blob/master/RoC%20Curve.PNG "RoC Curve")
