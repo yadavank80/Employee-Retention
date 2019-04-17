@@ -1,5 +1,5 @@
 # Employee Retention (Classification using ML)  
-Given some data about employees working in an organization, we are interested in predicting out if an employee is likely to leave the organization or not.  
+Given some data about employees working in an organization, we are interested in predicting if an employee is likely to leave the organization or not.  
 * We have **14249 observations** from past/present employees having 12 different features.  
   
 ## Target Variable:  
